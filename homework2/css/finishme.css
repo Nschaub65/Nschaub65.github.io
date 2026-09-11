@@ -1,0 +1,36 @@
+html {
+    background-color: #d9d3c9;
+}
+
+
+
+body {
+    background-color: white;
+    border: 10px solid gold;
+    padding: 3rem;
+    margin: auto;
+    width: 70%;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: firebrick;
+}
+
+
+img {
+    border-radius: 75%;
+    width: 75%;
+    display: block;
+    margin: auto;
+}
+
+
+.special {
+    background-color: gold;
+}
+
+p.special {
+    font-size: 2rem;
+}
